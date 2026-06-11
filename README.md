@@ -1,15 +1,2 @@
 # whynotes
 
-
-# whynotes Support
-
-whynotes is a minimalist macOS todo and memo app.
-
-For support, feedback, or bug reports, please contact:
-wuheyichange@gmail.com
-
-Common help topics:
-- Configure DeepSeek API key in Settings
-- Create todos and memos with natural language
-- Add images or files by drag and drop
-- Use whynotes skill with local agents
